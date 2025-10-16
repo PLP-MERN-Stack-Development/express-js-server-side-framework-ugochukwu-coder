@@ -1,0 +1,13 @@
+# Node modules (auto-generated, never upload)
+node_modules/
+
+# Environment variables (keep secrets safe)
+.env
+
+# System files (Windows + macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
